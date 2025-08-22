@@ -1,4 +1,4 @@
-#🧠 Word Predictor using RNN (PyTorch)
+🧠 Word Predictor using RNN (PyTorch)
 
 A simple yet powerful Recurrent Neural Network (RNN) model built with PyTorch to predict answers to questions based on text input.
 Achieved an impressive 95.54% accuracy 🎯.
